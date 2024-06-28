@@ -2,8 +2,7 @@
 
 ## Emotional Prompting: The New Prompting Technique
 
-* *Large Language Models Understand and Can Be Enhanced by Emotional Stimuli*
-* [Paper](https://arxiv.org/abs/2307.11760)
+* [Paper](https://arxiv.org/abs/2307.11760) *Large Language Models Understand and Can be Enhanced by Emotional Stimuli*
 
 ### It shows that using psychology-based emotional prompts can significantly improve LLM performance.
 
