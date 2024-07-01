@@ -17,6 +17,8 @@
 |**9. Self-Prompting**|Ask the model to create a prompt for itself to solve the given task.|The model generates a detailed prompt for solving a riddle.|
 |**10. CO-STAR Framework**|A comprehensive prompt structure: Context, Objective, Style, Tone, Audience, Response.|Context: Running a magic carpet business, Objective: Write a Facebook post, Style: Copy successful companies, Tone: Elegant and persuasive, Audience: People in their 30s, Response: Four sentences, no hashtags, with emojis.|
 
+---
+
 ## Emotional Prompting: The New Prompting Technique
 
 * [Paper](https://arxiv.org/abs/2307.11760) *Large Language Models Understand and Can be Enhanced by Emotional Stimuli*
@@ -68,6 +70,8 @@
 * The technique seems to provide greater benefits for larger models like LLaMA 2 and ChatGPT compared to smaller models.
 * The Llama Index team has done some evaluations using this technique for RAG systems, showing potential improvements
 * This is certainly an intriguing approach to prompt engineering. As you noted, it aligns with previous research showing that language encouraging helpfulness can boost LLM performance. It's an interesting area for further exploration and experimentation
+
+---
 
 ## ChatGPT prompts examples
 
