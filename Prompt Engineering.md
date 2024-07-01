@@ -1,5 +1,22 @@
 # Promprt Engineering
 
+## 10 Levels of ChatGPT Prompting: Beginner to Award Winning
+
+* [Source](https://www.youtube.com/watch?v=2djqKsRXt_Q&t=14s) *Patrick Storm*
+
+|Title|Description|Example/Details|
+|-|-|-|
+|**1. Just Telling You What You Want**8888|Basic, straightforward requests without much thought or structure.|Summarizing a Wikipedia article. Sometimes gets good results, sometimes not.|
+|**2. Basic Formatting**|Simple formatting can significantly improve response quality. Use polite language and avoid negatives.|Adding dashes to separate prompt sections, being polite, and avoiding negative phrasing. "Don't think of an elephant" example.|
+|**3. Focused Requests**|Be clear and specific about what you want. Provide detailed instructions.|Instead of "make the response pretty," specify "respond with headings, subheadings, and tables." Example of requesting specific columns and sorting data.|
+|**4. Give Examples**|Provide example inputs and outputs to guide the model. Few-shot learning.|Extracting information from a LinkedIn page with a provided example.|
+|**5. Self-Reflection**|Ask the model to review its own response for completeness or accuracy.|"Hey ChatGPT, did you miss anything?"|
+|**6. Nail the System Prompt**|Use a special set of instructions to guide responses. Provide context about yourself and your preferences.|Mentioning profession, preferred programming languages, and response styles.|
+|**7. Use Personas**|Instruct the model to act as an expert or assume a specific role to improve accuracy.|Asking ChatGPT to act as an expert in a specific field.|
+|**8. Chain of Thought**|Ask the model to explain its thought process step by step.|Adding "let's think step by step" to the prompt.|
+|**9. Self-Prompting**|Ask the model to create a prompt for itself to solve the given task.|The model generates a detailed prompt for solving a riddle.|
+|**10. CO-STAR Framework**|A comprehensive prompt structure: Context, Objective, Style, Tone, Audience, Response.|Context: Running a magic carpet business, Objective: Write a Facebook post, Style: Copy successful companies, Tone: Elegant and persuasive, Audience: People in their 30s, Response: Four sentences, no hashtags, with emojis.|
+
 ## Emotional Prompting: The New Prompting Technique
 
 * [Paper](https://arxiv.org/abs/2307.11760) *Large Language Models Understand and Can be Enhanced by Emotional Stimuli*
